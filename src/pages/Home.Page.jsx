@@ -48,7 +48,8 @@ function HomePage() {
                 </h1>
                 <EntertainmentCardSlider />
             </div>
-            <div className="container mx-auto px-4 md:px-12 my-8">
+
+             <div className="container mx-auto px-4 md:px-12 my-8">
                 <Banner />
             </div>
 
